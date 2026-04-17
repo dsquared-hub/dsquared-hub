@@ -14,10 +14,10 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/your_username">
+  <a href="https://t.me/dsquaredw">
     <img src="https://img.shields.io/badge/Telegram-ff0000?style=for-the-badge&logo=telegram&logoColor=white&labelColor=111111" />
   </a>
-  <a href="mailto:your_email@example.com">
+  <a href="mailto:ojbekm064@gmail.com">
     <img src="https://img.shields.io/badge/Email-ff0000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111111" />
   </a>
 </p>
