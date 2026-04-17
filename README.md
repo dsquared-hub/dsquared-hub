@@ -59,9 +59,6 @@ A Telegram bot for task management with simple backend logic and database storag
 
 **Tech:** Python, SQLite, Telegram Bot API
 
-**Link:**
-👉 https://github.com/dsquared-hub/task-manager-bot
-
 ---
 
 ### 2. Portfolio Project Coming Soon
