@@ -1,4 +1,3 @@
-# DSQUARED
 <div align="center">
 
 # 🪐 DSQUARED
@@ -23,7 +22,7 @@
 
 Космический портфолио-сайт с интерактивными анимациями, параллаксом и атмосферным дизайном.
 
-[🔗 Live Demo](https://your-demo-link.com)
+[🔗 Live Demo](https://dsquared.vercel.app)
 
 </div>
 
@@ -48,10 +47,18 @@
 ## 🚀 Run locally
 
 ```bash
-git clone https://github.com/dsquared-hub/dsq.git
-cd dsq
+git clone https://github.com/dsquared-hub/dsquared-hub.git
+cd dsquared-hub
 npm install
 npm run dev
 ```
 
-После запуска откройте адрес, который покажет Vite (обычно `
+После запуска откройте адрес, который покажет Vite (обычно http://localhost:5173).
+
+---
+
+<div align="center">
+
+Made with 💫 by dsquared
+
+</div>
