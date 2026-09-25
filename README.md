@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🪐 DSQUARED
+#  DSQUARED
 
 ### *Explore the Unknown*
 
@@ -20,7 +20,7 @@
 
 
 
-Космический портфолио-сайт с интерактивными анимациями, параллаксом и атмосферным дизайном.
+
 
 [🔗 Live Demo](https://dsquared.vercel.app)
 
