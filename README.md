@@ -28,37 +28,6 @@
 
 ---
 
-## ✨ Features
-
-- 🌌 Космическая туманность и движущиеся звёзды
-- 🪐 Интерактивная планета с кольцом, которая следит за мышкой
-- 🎞️ Параллакс-эффект на hero-секции
-- ☄️ Летающие частицы
-- 📱 Полностью адаптивный дизайн
-
-## 🛠 Tech Stack
-
-| Технология | Назначение |
-|------------|------------|
-| **React 19** | Интерфейс |
-| **Vite** | Сборка и dev-сервер |
-| **CSS Animations** | Анимации и эффекты |
-
-## 🚀 Run locally
-
-```bash
-git clone https://github.com/dsquared-hub/dsquared-hub.git
-cd dsquared-hub
-npm install
-npm run dev
-```
-
-После запуска откройте адрес, который покажет Vite (обычно http://localhost:5173).
-
----
-
-<div align="center">
-
 Made with 💫 by dsquared
 
 </div>
